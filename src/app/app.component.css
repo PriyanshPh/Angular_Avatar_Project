@@ -1,0 +1,15 @@
+.example-card {
+  max-width: 500px;
+  margin: 10px;
+}
+
+.app-wrapper{
+  margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.example-form-field{
+  margin: 2px;
+}
